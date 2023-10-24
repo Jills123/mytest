@@ -7,3 +7,10 @@ sum = num1 + num2
 
 # Display the result
 print(f"The sum of {num1} and {num2} is {sum}")
+# Check if the sum is zero, positive, or negative
+if sum == 0:
+    print(f"The sum of {num1} and {num2} is zero.")
+elif sum > 0:
+    print(f"The sum of {num1} and {num2} is positive.")
+else:
+    print(f"The sum of {num1} and {num2} is negative.")
