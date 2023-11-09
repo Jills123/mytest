@@ -14,3 +14,4 @@ elif sum > 0:
     print(f"The sum of {num1} and {num2} is positive.")
 else:
     print(f"The sum of {num1} and {num2} is negative.")
+print (love all)
